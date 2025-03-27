@@ -1,0 +1,6 @@
+[submodule "notte-keyboard-shield"]
+	path = notte-keyboard-shield
+	url = https://github.com/elfyndor203/notte-keyboard-shield.git
+[submodule "notte-keyboard-design"]
+	path = notte-keyboard-design
+	url = https://github.com/elfyndor203/notte-keyboard-design.git
