@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "notte-keyboard-shield\\boards\\shields\\Notte\\notte.overlay",
               "ToolTip": "C:\\Users\\haex4\\notte-keyboard\\notte-keyboard-shield\\boards\\shields\\Notte\\notte.overlay",
               "RelativeToolTip": "notte-keyboard-shield\\boards\\shields\\Notte\\notte.overlay",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-03-27T06:25:01.446Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "notte-keyboard-shield\\boards\\shields\\Notte\\Kconfig.defconfig",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-27T06:12:51.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T06:12:51.93Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "notte-keyboard-shield\\boards\\shields\\Notte\\Kconfig.shield",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-27T06:09:09.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T06:09:09.962Z"
             }
           ]
         }
