@@ -4,3 +4,6 @@
 [submodule "notte-keyboard-design"]
 	path = notte-keyboard-design
 	url = https://github.com/elfyndor203/notte-keyboard-design.git
+[submodule "zmk-config-notte"]
+	path = zmk-config-notte
+	url = https://github.com/elfyndor203/zmk-config-notte.git
